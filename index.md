@@ -11,11 +11,13 @@ Intente dar como primer formato el VP9 , puesto que lo veia mejor para uso con H
 
 Para generar el clip de video con estos códecs se ha utilizado el software xMediaRecorder debido a los problemas que estamos encontrando para trabajar con Avidemux. El video se encuentra adjuntado a la práctica con el nombre videoTarea1.
 
+<video src="https://github.com/Daleman2/UOC_PEC2_Plataformas-de-publicacion-distribucion/blob/main/Videos/IMG_9291.MOV" width="320" height="200" controls preload></video>
 
+https://github.com/Daleman2/UOC_PEC2_Plataformas-de-publicacion-distribucion/blob/main/Videos/IMG_9291.MOV
 
-
-
-
+<video width="320" height="200" controls preload> 
+    <source src="Videos/video3.mp4"></source> 
+</video>
 
 
 ---------------
