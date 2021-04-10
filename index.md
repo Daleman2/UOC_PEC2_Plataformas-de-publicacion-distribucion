@@ -24,11 +24,6 @@ https://github.com/Daleman2/UOC_PEC2_Plataformas-de-publicacion-distribucion/blo
     <source src="Videos/video3.mp4"></source> 
 </video>
 
-
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://robocop79.github.io/Websiteland//Twitter/FLT.mp4">
-</video>
-
 ---------------
 
 You can use the [editor on GitHub](https://github.com/Daleman2/UOC_PEC2_Publi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
